@@ -92,9 +92,3 @@ node-red
 * Fine-grained patching for more complex codebases.
 * Real-time monitoring and multi-tenant support.
 
----
-
-## References
-
-* OWASP Foundation. OWASP ZAP. [https://owasp.org/www-project-zap/](https://owasp.org/www-project-zap/)
-
